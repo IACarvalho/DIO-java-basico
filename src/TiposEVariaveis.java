@@ -1,4 +1,4 @@
-public class App {
+public class TiposEVariaveis {
     public static void main(String[] args) throws Exception {
         // Tipos e variáveis
 
@@ -33,8 +33,6 @@ public class App {
         // O nome tem que que ser escrito em caixa alta
         // A separação das palavras é feita por um underscore
         final double VALOR_DE_PI = 3.14;
-
-
     }
 }
 /*  */
